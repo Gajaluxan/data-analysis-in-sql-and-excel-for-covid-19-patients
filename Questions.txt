@@ -1,0 +1,14 @@
+Question 01
+Indicate the probability of a person dying if they become infected.
+
+Question 02
+Indicate the probability that a person would die if they received a vaccination.
+
+Question 03
+Indicate the chance that a person would contract an infection even if they have received vaccinations.
+
+Question 04
+Which country does have the hightest death rate compare to population?
+
+Question 05
+Which country does have the hightest infected rate compare to population?
